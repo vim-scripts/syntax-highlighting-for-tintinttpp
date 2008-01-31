@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2135
+
+cool vim syntax file for tt++ / tintin...http://tintin.sourceforge.net/
+only the best mud client available to man!
+
+note***this file is in a linux format, it probably won't work straightaway on a windows box...you'll have to go reset the cr / crlf's i believe.
+
+-=Todo=-
+Expand keyword selection to include caps...right now #alias / #action and all other keywords are on highlighted if they are in lowercase.
+If you have any suggestions please feel free to mail me at 
+cheshire.in.darkness ::at:: gmail ::dot:: com
+
+thanks!
